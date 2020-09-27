@@ -1,0 +1,12 @@
+<resources>
+    <gradient
+        android:type="linear"
+        android:angle="100"
+        android:startColor="#FFFFFF"
+        android:endColor="#E5EAFF" />
+</resources>
+
+<resources>
+    <color name="gradientstart">#FFFFFF</color>
+    <color name="gradientend">#E5EAFF</color>
+</resources>
